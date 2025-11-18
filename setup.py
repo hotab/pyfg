@@ -19,7 +19,7 @@ except:
 
 setup(
     name="pyfg",
-    version="0.50",
+    version="0.51",
     packages=find_packages(),
     author="XNET",
     author_email="lindblom+pyfg@spotify.com",
